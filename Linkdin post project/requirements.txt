@@ -1,0 +1,30 @@
+# LinkedIn Post Automation - Dependencies
+# Core Backend Dependencies
+fastapi==0.108.0
+uvicorn[standard]==0.24.0
+pydantic==2.5.3
+pydantic-settings==2.1.0
+python-dotenv==1.0.0
+
+# HTTP & API
+aiohttp==3.9.1
+requests==2.31.0
+httpx>=0.27.0
+
+# AI & LangChain  
+google-generativeai==0.3.2
+langchain>=0.1.0
+langchain-google-genai>=0.0.8
+langchain-core>=0.1.0
+
+# ML Backend
+torch>=2.1.0
+typing-extensions>=4.12.0
+
+# Frontend
+streamlit==1.28.1
+pandas==2.1.4
+plotly==5.17.0
+
+# Additional Utilities
+python-multipart==0.0.6
