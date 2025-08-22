@@ -1,4 +1,3 @@
-# Linkdin-post-generation-n8n-fast-api-2
 
 # LinkedIn Post Automation with Gemini AI
 
